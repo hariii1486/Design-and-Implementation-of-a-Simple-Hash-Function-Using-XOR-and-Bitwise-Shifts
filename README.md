@@ -71,4 +71,4 @@ gtkwave SimpleHash.vcd
 * Digital Logic Design
 * Hardware Simulation and Verification
 
-ional hardware design created to explore hash-function construction, digital logic concepts, and Verilog-based verification. It is not intended for cryptographic use.
+
